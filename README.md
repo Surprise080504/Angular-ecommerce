@@ -27,15 +27,4 @@ $ ng serve -o
 Now, all you need to do, is access on your browser: http://localhost:4200
 
 
-## How to contribute :question:
-
-1. Make a fork;
-2. Create a branch with your feature: `git checkout -b my-feature`;
-3. Commit changes: `git commit -m 'Updating the css'`;
-4. Push the changes: `git push origin my-feature`.
-
-
-
-
-
 
